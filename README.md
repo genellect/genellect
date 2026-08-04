@@ -1,8 +1,16 @@
+<div align="center">
+
 # Yuto Matsui
 
-**AI-native full-stack developer building production systems across education, AI, and science.**
+### AI-native full-stack developer building production systems across education, AI, and science.
 
 I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations.
+
+**AI-native product development · Full-stack systems · Education technology · Scientific software**
+
+</div>
+
+---
 
 ## Featured Work
 
@@ -10,52 +18,49 @@ I turn domain problems into working products—from problem definition and syste
 
 **Founder · Product Owner · Lead Developer**
 
-A private-source, full-stack learning platform connecting students, instructors, classroom displays, and post-lecture archives.
+A full-stack learning platform connecting students, instructors, classroom displays, and post-lecture archives.
 
-- Designed role-specific Student, Admin, Display, and Archive experiences around a shared lecture lifecycle
-- Built server-enforced ownership and authorization with Supabase Auth, PostgreSQL, Row Level Security, and RPC
-- Designed versioned snapshot synchronization with visibility-aware polling and failure backoff
-- Separated protected server capabilities, private document delivery, and browser-facing state
-- Structured AI execution around authorization, budget control, usage accounting, validation, and human review
+- Designed Student, Admin, Display, and Archive experiences around a shared lecture lifecycle
+- Implemented authentication, ownership, and authorization with Supabase Auth, PostgreSQL, Row Level Security, and RPC
+- Built versioned state synchronization with visibility-aware polling, retry control, and failure backoff
+- Separated browser-facing state, protected server operations, and private document delivery
+- Structured AI execution around authorization, concurrency limits, budget control, usage accounting, validation, and human review
 - Established validation across the frontend, database policies, serverless functions, browsers, and end-to-end lecture workflows
 
-[Live Demo](https://compass-interactive.pages.dev/demo) · [Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)
+**[Live Demo](https://compass-interactive.pages.dev/demo)** · **[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)**
 
-`React 19 · TypeScript 6 · Vite 8 · Supabase · PostgreSQL · RLS · RPC · Edge Functions · OpenAI API · Cloudflare · Playwright · pgTAP`
+`React` · `TypeScript` · `Supabase` · `PostgreSQL` · `Edge Functions` · `OpenAI API` · `Cloudflare` · `Playwright` · `pgTAP`
 
-> The production repository remains private to protect operational security, user data, and project intellectual property.
+> The production repository is private; its architecture and key engineering decisions are documented in the public case study.
 
 ---
 
-### COMPASS Official Platform
+### COMPASS Platform
 
-**Founder · Full-Stack Developer**
+**Founder · Product Owner · Full-Stack Developer**
 
-The public platform for COMPASS, a student-led education and technology initiative.
+The public website and registration platform for COMPASS, a student-led education and technology initiative.
 
-- Built a multi-route Next.js platform deployed through Cloudflare Pages
-- Implemented separated serverless workflows for Community and Contact forms
-- Applied schema validation, Turnstile verification, and Google Apps Script relays
-- Established a quality gate covering tests, TypeScript, production builds, and exported artifacts
-- Documented architecture, content governance, deployment boundaries, and agent-assisted development rules
+- Built the public website and registration interface with Next.js and Cloudflare Pages
+- Implemented Google account authentication, server-side ID-token verification, eligibility evaluation, and registration APIs with FastAPI
+- Established PostgreSQL as the source of truth for users, applications, identities, permissions, operations, and audit history
+- Implemented asynchronous Google Drive permission management with transactional outbox processing, idempotency, leases, retries, and recovery states
+- Separated Public API, Admin API, Worker, Migration, and Database responsibilities, with administrative workflows for access management, migration, auditing, and verified exports
+- Defined Cloud Run infrastructure, IAM, secrets, monitoring, and deployment with Terraform
+- Established automated validation across the web application, APIs, database, migrations, infrastructure, security, and external integrations
 
-[Production](https://compass-official.pages.dev/) · [Source Code](https://github.com/my270yuto0413-cmyk/compass)
+**[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/my270yuto0413-cmyk/COMPASS)**
 
-`Next.js 16 · React 19 · TypeScript 5.9 · Cloudflare Pages Functions · Zod · Vitest`
+`Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Google Cloud Run` · `Cloudflare` · `Terraform` · `Docker` · `Playwright` · `Pytest`
+
+---
 
 ## Engineering Focus
 
-- **AI-native product development** — using coding agents within explicit architectural, security, review, and verification boundaries
-- **Full-stack systems** — product design, frontend, backend, data, authorization, infrastructure, testing, and operations
-- **Education technology** — translating classroom problems into usable learning systems
-- **Scientific software** — applying software engineering and AI to life-science research workflows
+**AI-native product development · Full-stack systems · Education technology · Scientific software**
 
 ## Research Background
 
-I am also a molecular biology researcher studying the molecular mechanisms of ALS/FTD.
+I am also a molecular biology researcher studying the molecular mechanisms of ALS/FTD, with a focus on C9orf72-associated neurodegeneration.
 
-My work sits at the intersection of software engineering, artificial intelligence, education, and life science—turning specialized knowledge into systems people can actually use.
-
-## Links
-
-[COMPASS](https://compass-official.pages.dev/) · [COMPASS Interactive](https://compass-official.pages.dev/INTRO_Interactive/) · [Interactive Demo](https://compass-interactive.pages.dev/demo) · [Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)
+I apply software engineering, automation, image analysis, and AI to research and education workflows.
