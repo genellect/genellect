@@ -6,61 +6,84 @@
 
 I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations.
 
-**AI-native product development · Full-stack systems · Education technology · Scientific software**
+**[Live Product](https://compass-interactive.pages.dev/demo)** · **[COMPASS Platform](https://compass-official.pages.dev/)** · **[Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)**
 
 </div>
 
 ---
 
-## Featured Work
+## Selected Systems
 
-### COMPASS Interactive
+<sub>PRODUCTION WORK ACROSS EDUCATION, AI, AND SCIENCE</sub>
 
-**Founder · Product Owner · Lead Developer**
+Two connected systems spanning live classroom interaction, public product experience, identity, registration, permissions, and operations.
 
-A full-stack learning platform connecting students, instructors, classroom displays, and post-lecture archives.
+### 01 / COMPASS Interactive
 
-- Designed Student, Admin, Display, and Archive experiences around a shared lecture lifecycle
-- Implemented authentication, ownership, and authorization with Supabase Auth, PostgreSQL, Row Level Security, and RPC
-- Built versioned state synchronization with visibility-aware polling, retry control, and failure backoff
-- Separated browser-facing state, protected server operations, and private document delivery
-- Structured AI execution around authorization, concurrency limits, budget control, usage accounting, validation, and human review
-- Established validation across the frontend, database policies, serverless functions, browsers, and end-to-end lecture workflows
+**Learning infrastructure for the complete lecture lifecycle.**
 
-**[Live Demo](https://compass-interactive.pages.dev/demo)** · **[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)**
+Founder · Product Owner · Lead Developer
 
+Connects students, instructors, classroom displays, and post-lecture archives through one shared system.
+
+#### Engineering Highlights
+
+- **Secure multi-role architecture** — Designed Student, Admin, Display, and Archive experiences with Supabase Auth, PostgreSQL, Row Level Security, and RPC-based ownership controls.
+- **Resilient live state** — Built versioned synchronization with visibility-aware polling, retry control, and failure backoff while separating browser-facing state, protected server operations, and private document delivery.
+- **Governed AI execution** — Structured authorization, concurrency limits, budget control, usage accounting, validation, and human review across end-to-end lecture workflows.
+
+<p align="center">
+  <strong><a href="https://compass-interactive.pages.dev/demo">Explore the Live Demo →</a></strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://compass-official.pages.dev/INTRO_Interactive/">Product Overview</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://compass-official.pages.dev/INTRO_Interactive/developers/">Developer Case Study</a>
+</p>
+
+**Stack**<br>
 `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `Edge Functions` · `OpenAI API` · `Cloudflare` · `Playwright` · `pgTAP`
 
 > The production repository is private; its architecture and key engineering decisions are documented in the public case study.
 
 ---
 
-### COMPASS Platform
+### 02 / COMPASS Platform
 
-**Founder · Product Owner · Full-Stack Developer**
+**Public product, registration, and operational infrastructure for COMPASS.**
 
-The public website and registration platform for COMPASS, a student-led education and technology initiative.
+Founder · Product Owner · Full-Stack Developer
 
-- Built the public website and registration interface with Next.js and Cloudflare Pages
-- Implemented Google account authentication, server-side ID-token verification, eligibility evaluation, and registration APIs with FastAPI
-- Established PostgreSQL as the source of truth for users, applications, identities, permissions, operations, and audit history
-- Implemented asynchronous Google Drive permission management with transactional outbox processing, idempotency, leases, retries, and recovery states
-- Separated Public API, Admin API, Worker, Migration, and Database responsibilities, with administrative workflows for access management, migration, auditing, and verified exports
-- Defined Cloud Run infrastructure, IAM, secrets, monitoring, and deployment with Terraform
-- Established automated validation across the web application, APIs, database, migrations, infrastructure, security, and external integrations
+Turns public discovery, registration, identity, permissions, operations, and audit history into one production platform.
 
-**[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/my270yuto0413-cmyk/COMPASS)**
+#### Engineering Highlights
 
+- **Product and identity** — Built the Next.js interface and FastAPI registration services with Google authentication, server-side ID-token verification, and eligibility evaluation.
+- **Reliable operations** — Established PostgreSQL as the source of truth and implemented asynchronous Google Drive permissions with transactional outbox processing, idempotency, leases, retries, and recovery states.
+- **Production infrastructure** — Separated Public API, Admin API, Worker, Migration, and Database responsibilities; defined Cloud Run, IAM, secrets, monitoring, and deployment with Terraform; and automated validation across the full system.
+
+<p align="center">
+  <strong><a href="https://compass-official.pages.dev/">Visit the Production Platform →</a></strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/my270yuto0413-cmyk/COMPASS">View Source Code</a>
+</p>
+
+**Stack**<br>
 `Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Google Cloud Run` · `Cloudflare` · `Terraform` · `Docker` · `Playwright` · `Pytest`
 
 ---
 
-## Engineering Focus
-
-**AI-native product development · Full-stack systems · Education technology · Scientific software**
-
-## Research Background
+## Research × Engineering
 
 I am also a molecular biology researcher studying the molecular mechanisms of ALS/FTD, with a focus on C9orf72-associated neurodegeneration.
 
 I apply software engineering, automation, image analysis, and AI to research and education workflows.
+
+---
+
+<div align="center">
+
+**Education · AI · Science · Production Systems**
+
+[Portfolio](https://compass-official.pages.dev/INTRO_Interactive/developers/) · [GitHub](https://github.com/my270yuto0413-cmyk) · [Live Product](https://compass-interactive.pages.dev/demo)
+
+</div>
