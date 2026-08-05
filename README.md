@@ -18,7 +18,14 @@ A full-stack learning platform connecting students, instructors, classroom displ
 
 **[Live Demo](https://compass-interactive.pages.dev/demo)** · **[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)**
 
-<sub>React · TypeScript · Supabase · PostgreSQL · Edge Functions · OpenAI API · Cloudflare · Playwright · pgTAP</sub>
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
+</p>
 
 - Designed Student, Admin, Display, and Archive experiences around a shared lecture lifecycle
 - Implemented authentication, ownership, and authorization with Supabase Auth, PostgreSQL, Row Level Security, and RPC
@@ -44,7 +51,14 @@ The public website and registration platform for COMPASS, a student-led educatio
 
 **[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/my270yuto0413-cmyk/COMPASS)**
 
-<sub>Next.js · TypeScript · FastAPI · PostgreSQL · Google Cloud Run · Cloudflare · Terraform · Docker · Playwright · Pytest</sub>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-16.2.11-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=555555" alt="Next.js 16.2.11">
+  <img src="https://img.shields.io/badge/React-19-087EA4?style=flat-square&logo=react&logoColor=FFFFFF&labelColor=555555" alt="React 19">
+  <img src="https://img.shields.io/badge/FastAPI-Python_3.12+-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF&labelColor=555555" alt="FastAPI on Python 3.12 or later">
+  <img src="https://img.shields.io/badge/PostgreSQL-17-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF&labelColor=555555" alt="PostgreSQL 17">
+  <img src="https://img.shields.io/badge/Cloudflare-Pages_%2B_Functions-F38020?style=flat-square&logo=cloudflare&logoColor=FFFFFF&labelColor=555555" alt="Cloudflare Pages and Functions">
+  <img src="https://img.shields.io/badge/Google_Cloud-Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=FFFFFF&labelColor=555555" alt="Google Cloud Run">
+</p>
 
 - Built the public website and registration interface with Next.js and Cloudflare Pages
 - Implemented Google account authentication, server-side ID-token verification, eligibility evaluation, and registration APIs with FastAPI
