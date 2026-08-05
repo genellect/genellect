@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+  <title id="title">COMPASS Interactive lecture system</title>
+  <desc id="desc">Admin, Student, Display, AI, and Archive surfaces connected through a shared live lecture session.</desc>
+  <defs>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="560" rx="24" fill="#0b0e13"/>
+  <rect x="1" y="1" width="718" height="558" rx="23" fill="none" stroke="#242b36"/>
+
+  <g fill="none" stroke="url(#signal)" stroke-width="4">
+    <path d="M170 145 C230 145 244 240 286 240"/>
+    <path d="M170 405 C230 405 244 310 286 310"/>
+    <path d="M434 240 C476 240 490 145 550 145"/>
+    <path d="M434 310 C476 310 490 405 550 405"/>
+  </g>
+  <path d="M360 330 V392" fill="none" stroke="#526175" stroke-width="3" stroke-dasharray="7 8"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <g>
+      <rect x="58" y="105" width="160" height="80" rx="14" fill="#111722" stroke="#334155"/>
+      <circle cx="88" cy="134" r="6" fill="#3b82f6"/>
+      <text x="138" y="155" fill="#f8fafc" font-size="27" font-weight="600" text-anchor="middle">ADMIN</text>
+    </g>
+    <g>
+      <circle cx="138" cy="405" r="80" fill="#111722" stroke="#334155"/>
+      <circle cx="138" cy="380" r="10" fill="#22d3ee"/>
+      <text x="138" y="430" fill="#f8fafc" font-size="25" font-weight="600" text-anchor="middle">STUDENT</text>
+    </g>
+    <g>
+      <rect x="218" y="220" width="284" height="110" rx="18" fill="#111722" stroke="#3b82f6"/>
+      <text x="360" y="266" fill="#f8fafc" font-size="28" font-weight="600" text-anchor="middle">LIVE SESSION</text>
+      <text x="360" y="300" fill="#8fa3bc" font-size="17" text-anchor="middle" letter-spacing="1.2">SHARED STATE</text>
+    </g>
+    <g>
+      <rect x="502" y="93" width="160" height="104" rx="14" fill="#111722" stroke="#334155"/>
+      <rect x="524" y="116" width="116" height="54" rx="7" fill="#0b0e13" stroke="#2563eb"/>
+      <text x="582" y="153" fill="#f8fafc" font-size="24" font-weight="600" text-anchor="middle">DISPLAY</text>
+    </g>
+    <g>
+      <rect x="502" y="358" width="160" height="94" rx="14" fill="#111722" stroke="#334155"/>
+      <path d="M526 383 H638 M526 403 H620 M526 423 H608" stroke="#526175" stroke-width="5" stroke-linecap="round"/>
+      <text x="582" y="485" fill="#f8fafc" font-size="24" font-weight="600" text-anchor="middle">ARCHIVE</text>
+    </g>
+    <g>
+      <rect x="292" y="392" width="136" height="52" rx="26" fill="#111722" stroke="#334155"/>
+      <circle cx="323" cy="418" r="6" fill="#22d3ee"/>
+      <text x="374" y="426" fill="#f8fafc" font-size="24" font-weight="600" text-anchor="middle">AI</text>
+    </g>
+    <g fill="#7f8ea3" font-size="14" letter-spacing="1.4">
+      <text x="52" y="526">AUTHORIZATION</text>
+      <text x="285" y="526">VERSIONED STATE</text>
+      <text x="518" y="526">PRIVATE DELIVERY</text>
+    </g>
+    <path d="M52 538 H668" stroke="#202733" stroke-width="2"/>
+  </g>
+</svg>

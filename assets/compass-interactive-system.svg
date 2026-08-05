@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">COMPASS Interactive lecture system</title>
+  <desc id="desc">Admin, Student, Display, AI, and Archive surfaces connected through a shared live lecture session and a protected state layer.</desc>
+  <defs>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="24" fill="#0b0e13"/>
+  <rect x="1" y="1" width="1598" height="418" rx="23" fill="none" stroke="#242b36"/>
+
+  <g fill="none" stroke="#27303c" stroke-width="2">
+    <path d="M270 142 C430 142 470 207 640 207"/>
+    <path d="M270 300 C430 300 470 235 640 235"/>
+    <path d="M960 207 C1110 207 1140 142 1300 142"/>
+    <path d="M960 235 C1110 235 1140 300 1300 300"/>
+    <path d="M800 266 V326" stroke-dasharray="7 8"/>
+  </g>
+
+  <path d="M270 142 C430 142 470 207 640 207 M270 300 C430 300 470 235 640 235 M960 207 C1110 207 1140 142 1300 142 M960 235 C1110 235 1140 300 1300 300" fill="none" stroke="url(#signal)" stroke-width="3" opacity="0.88" filter="url(#glow)"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <g>
+      <rect x="118" y="102" width="152" height="80" rx="14" fill="#111722" stroke="#334155"/>
+      <circle cx="145" cy="128" r="5" fill="#3b82f6"/>
+      <text x="145" y="158" fill="#f8fafc" font-size="19" font-weight="600">ADMIN</text>
+    </g>
+    <g>
+      <circle cx="194" cy="300" r="76" fill="#111722" stroke="#334155"/>
+      <circle cx="194" cy="300" r="55" fill="none" stroke="#1f2937"/>
+      <circle cx="194" cy="274" r="9" fill="#22d3ee"/>
+      <text x="194" y="326" fill="#f8fafc" font-size="19" font-weight="600" text-anchor="middle">STUDENT</text>
+    </g>
+    <g>
+      <rect x="640" y="168" width="320" height="98" rx="18" fill="#111722" stroke="#3b82f6"/>
+      <text x="800" y="211" fill="#f8fafc" font-size="22" font-weight="600" text-anchor="middle">LIVE SESSION</text>
+      <text x="800" y="239" fill="#8fa3bc" font-size="15" text-anchor="middle" letter-spacing="1.5">SHARED LECTURE STATE</text>
+    </g>
+    <g>
+      <rect x="1288" y="87" width="194" height="112" rx="14" fill="#111722" stroke="#334155"/>
+      <rect x="1310" y="111" width="150" height="64" rx="7" fill="#0b0e13" stroke="#2563eb"/>
+      <path d="M1350 188 H1420" stroke="#22d3ee" stroke-width="3"/>
+      <text x="1385" y="155" fill="#f8fafc" font-size="19" font-weight="600" text-anchor="middle">DISPLAY</text>
+    </g>
+    <g>
+      <rect x="1288" y="259" width="194" height="82" rx="14" fill="#111722" stroke="#334155"/>
+      <path d="M1320 285 H1450 M1320 302 H1428 M1320 319 H1408" stroke="#526175" stroke-width="4" stroke-linecap="round"/>
+      <text x="1385" y="372" fill="#f8fafc" font-size="19" font-weight="600" text-anchor="middle">ARCHIVE</text>
+    </g>
+    <g>
+      <rect x="728" y="326" width="144" height="48" rx="24" fill="#111722" stroke="#334155"/>
+      <circle cx="758" cy="350" r="5" fill="#22d3ee"/>
+      <text x="813" y="356" fill="#f8fafc" font-size="17" font-weight="600" text-anchor="middle">AI</text>
+    </g>
+    <g fill="#7f8ea3" font-size="13" letter-spacing="1.8">
+      <text x="118" y="389">AUTHORIZATION</text>
+      <text x="632" y="389">VERSIONED STATE</text>
+      <text x="1244" y="389">PRIVATE DELIVERY</text>
+    </g>
+    <path d="M118 400 H1482" stroke="#202733" stroke-width="2"/>
+    <circle cx="270" cy="400" r="4" fill="#2563eb"/>
+    <circle cx="800" cy="400" r="4" fill="#3b82f6"/>
+    <circle cx="1300" cy="400" r="4" fill="#22d3ee"/>
+  </g>
+</svg>
