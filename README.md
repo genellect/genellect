@@ -1,24 +1,24 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/yuto-matsui-masthead-mobile.svg">
+  <img src="./assets/yuto-matsui-masthead.svg" alt="Yuto Matsui. AI-native full-stack developer building production systems across education, AI, and science. I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations." width="100%">
+</picture>
 
-# Yuto Matsui
+<br>
 
-### AI-native full-stack developer building production systems across education, AI, and science.
-
-I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations.
-
-**AI-native product development · Full-stack systems · Education technology · Scientific software**
-
-</div>
-
----
-
-## Featured Work
-
-### COMPASS Interactive
+## COMPASS Interactive
 
 **Founder · Product Owner · Lead Developer**
 
 A full-stack learning platform connecting students, instructors, classroom displays, and post-lecture archives.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/compass-interactive-system-mobile.svg">
+  <img src="./assets/compass-interactive-system.svg" alt="Admin, Student, Display, AI, and Archive surfaces connected through a shared live lecture session" width="100%">
+</picture>
+
+**[Live Demo](https://compass-interactive.pages.dev/demo)** · **[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)**
+
+<sub>React · TypeScript · Supabase · PostgreSQL · Edge Functions · OpenAI API · Cloudflare · Playwright · pgTAP</sub>
 
 - Designed Student, Admin, Display, and Archive experiences around a shared lecture lifecycle
 - Implemented authentication, ownership, and authorization with Supabase Auth, PostgreSQL, Row Level Security, and RPC
@@ -27,19 +27,24 @@ A full-stack learning platform connecting students, instructors, classroom displ
 - Structured AI execution around authorization, concurrency limits, budget control, usage accounting, validation, and human review
 - Established validation across the frontend, database policies, serverless functions, browsers, and end-to-end lecture workflows
 
-**[Live Demo](https://compass-interactive.pages.dev/demo)** · **[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)**
-
-`React` · `TypeScript` · `Supabase` · `PostgreSQL` · `Edge Functions` · `OpenAI API` · `Cloudflare` · `Playwright` · `pgTAP`
-
 > The production repository is private; its architecture and key engineering decisions are documented in the public case study.
 
----
+<br>
 
-### COMPASS Platform
+## COMPASS Platform
 
 **Founder · Product Owner · Full-Stack Developer**
 
 The public website and registration platform for COMPASS, a student-led education and technology initiative.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/compass-platform-system-mobile.svg">
+  <img src="./assets/compass-platform-system.svg" alt="Public web, API, PostgreSQL, outbox, worker, and Google Drive delivery flow" width="100%">
+</picture>
+
+**[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/my270yuto0413-cmyk/COMPASS)**
+
+<sub>Next.js · TypeScript · FastAPI · PostgreSQL · Google Cloud Run · Cloudflare · Terraform · Docker · Playwright · Pytest</sub>
 
 - Built the public website and registration interface with Next.js and Cloudflare Pages
 - Implemented Google account authentication, server-side ID-token verification, eligibility evaluation, and registration APIs with FastAPI
@@ -49,15 +54,7 @@ The public website and registration platform for COMPASS, a student-led educatio
 - Defined Cloud Run infrastructure, IAM, secrets, monitoring, and deployment with Terraform
 - Established automated validation across the web application, APIs, database, migrations, infrastructure, security, and external integrations
 
-**[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/my270yuto0413-cmyk/COMPASS)**
-
-`Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Google Cloud Run` · `Cloudflare` · `Terraform` · `Docker` · `Playwright` · `Pytest`
-
----
-
-## Engineering Focus
-
-**AI-native product development · Full-stack systems · Education technology · Scientific software**
+<br>
 
 ## Research Background
 
