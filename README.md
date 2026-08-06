@@ -49,7 +49,7 @@ The public website and registration platform for COMPASS, a student-led educatio
   <img src="./assets/compass-platform-system.svg" alt="Public web, API, PostgreSQL, outbox, worker, and Google Drive delivery flow" width="100%">
 </picture>
 
-**[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/my270yuto0413-cmyk/COMPASS)**
+**[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/genellect/compass)**
 
 <p>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.2.11-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=555555" alt="Next.js 16.2.11"></a>
