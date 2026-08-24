@@ -3,6 +3,10 @@
   <img src="./assets/yuto-matsui-masthead.svg" alt="Yuto Matsui. AI-native full-stack developer building production systems across education, AI, and science. I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations." width="100%">
 </picture>
 
+<p align="center">
+  <sub><a href="https://compass-official.pages.dev/founder/">Web Portfolio</a></sub>
+</p>
+
 <br>
 
 ## COMPASS Interactive
@@ -16,7 +20,7 @@ A full-stack learning platform connecting students, instructors, classroom displ
   <img src="./assets/compass-interactive-system.svg" alt="Admin, Student, Display, AI, and Archive surfaces connected through a shared live lecture session" width="100%">
 </picture>
 
-**[Live Demo](https://compass-interactive.pages.dev/demo)** · **[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Developer Case Study](https://compass-official.pages.dev/INTRO_Interactive/developers/)**
+**[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Portfolio for Developers](https://compass-official.pages.dev/INTRO_Interactive/developers/)** · **[Source Code](https://github.com/genellect/compass-interactive)**
 
 <p>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React"></a>
@@ -34,7 +38,7 @@ A full-stack learning platform connecting students, instructors, classroom displ
 - Structured AI execution around authorization, concurrency limits, budget control, usage accounting, validation, and human review
 - Established validation across the frontend, database policies, serverless functions, browsers, and end-to-end lecture workflows
 
-> The production repository is private; its architecture and key engineering decisions are documented in the public case study.
+> COMPASS Interactive is source-available through its public production repository.
 
 <br>
 
