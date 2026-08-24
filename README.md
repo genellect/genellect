@@ -3,20 +3,11 @@
   <img src="./assets/yuto-matsui-masthead.svg" alt="Yuto Matsui. AI-native full-stack developer building production systems across education, AI, and science. I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations." width="100%">
 </picture>
 
-<table>
-  <tr>
-    <td width="150" align="center">
-      <a href="https://compass-official.pages.dev/founder/">
-        <img src="https://avatars.githubusercontent.com/u/295525100?v=4&amp;s=240" width="120" alt="Portrait of Yuto Matsui">
-      </a>
-    </td>
-    <td>
-      <h3>About the person behind the products</h3>
-      <p>Discover the builder, researcher, and founder connecting software, education, and life science—and the story behind the work.</p>
-      <p><a href="https://compass-official.pages.dev/founder/"><strong>Explore My Web Portfolio →</strong></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://compass-official.pages.dev/founder/">
+    <img src="./assets/web-portfolio-link.svg" alt="Explore My Web Portfolio →" width="100%">
+  </a>
+</p>
 
 <br>
 
