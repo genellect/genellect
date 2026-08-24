@@ -3,16 +3,16 @@
   <img src="./assets/yuto-matsui-masthead.svg" alt="Yuto Matsui. AI-native full-stack developer building production systems across education, AI, and science. I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations." width="100%">
 </picture>
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="https://compass-official.pages.dev/founder/">
     <picture>
       <source media="(max-width: 600px)" srcset="./assets/web-portfolio-wide-mobile.svg">
       <img src="./assets/web-portfolio-wide.svg" alt="Explore My Web Portfolio →" width="100%">
     </picture>
   </a>
-</p>
-
-<br>
+</div>
 
 ## COMPASS Interactive
 
