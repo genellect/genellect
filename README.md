@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://compass-official.pages.dev/founder/">
-    <img src="./assets/web-portfolio-link.svg" alt="Explore My Web Portfolio →" width="560">
+    <img src="./assets/web-portfolio-link.svg?v=2" alt="Explore My Web Portfolio →" width="560">
   </a>
 </p>
 
