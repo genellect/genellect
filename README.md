@@ -6,7 +6,7 @@
 <div>&nbsp;</div>
 
 <div align="center">
-  <a href="https://compass-official.pages.dev/founder/">
+  <a href="https://yuto-matsui.com/">
     <picture>
       <source media="(max-width: 600px)" srcset="./assets/web-portfolio-wide-mobile.svg">
       <img src="./assets/web-portfolio-wide.svg" alt="Explore My Web Portfolio →" width="100%">
