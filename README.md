@@ -41,7 +41,7 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python"></a>
   <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=FFFFFF" alt="C#"></a>
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-475569?style=flat-square" alt="SQL">
 </p>
 
 <p>
@@ -56,9 +56,9 @@
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"></a>
   <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" alt="Supabase"></a>
   <a href="https://neon.com/"><img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=111827" alt="Neon"></a>
-  <img src="https://img.shields.io/badge/REST_APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=FFFFFF" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Realtime-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Realtime">
-  <img src="https://img.shields.io/badge/Auth-EB5424?style=flat-square&logo=auth0&logoColor=FFFFFF" alt="Auth">
+  <img src="https://img.shields.io/badge/REST_APIs-475569?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Realtime-475569?style=flat-square" alt="Realtime">
+  <img src="https://img.shields.io/badge/Auth-475569?style=flat-square" alt="Auth">
 </p>
 
 <p>
@@ -73,7 +73,7 @@
 <p>
   <strong>Engineering &amp; Operations</strong><br>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions"></a>
-  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="CI/CD">
+  <img src="https://img.shields.io/badge/CI%2FCD-475569?style=flat-square" alt="CI/CD">
   <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=FFFFFF" alt="Playwright"></a>
   <img src="https://img.shields.io/badge/E2E_Testing-475569?style=flat-square" alt="E2E Testing">
   <img src="https://img.shields.io/badge/Integration_Testing-475569?style=flat-square" alt="Integration Testing">
@@ -84,6 +84,6 @@
   <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex"></a>
   <a href="https://docs.anthropic.com/en/docs/claude-code/overview"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=FFFFFF" alt="Claude Code"></a>
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5E5CE6?style=flat-square&logo=modelcontextprotocol&logoColor=FFFFFF" alt="MCP"></a>
-  <img src="https://img.shields.io/badge/LLM_APIs-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="LLM APIs">
+  <img src="https://img.shields.io/badge/LLM_APIs-475569?style=flat-square" alt="LLM APIs">
   <img src="https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=flat-square" alt="Agentic Workflows">
 </p>
