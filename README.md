@@ -14,73 +14,76 @@
   </a>
 </div>
 
-## COMPASS Interactive
+<div align="center">
 
-**Founder · Product Owner · Lead Developer**
+<h2>Advancing science. Transforming education.</h2>
 
-A full-stack learning platform connecting students, instructors, classroom displays, and post-lecture archives.
+<p>I work at the interface of <strong>life science, software, and AI</strong>, building systems that accelerate discovery, improve how knowledge is shared, and make complex work more intelligent and scalable.</p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/compass-interactive-system-mobile.svg">
-  <img src="./assets/compass-interactive-system.svg" alt="Admin, Student, Display, AI, and Archive surfaces connected through a shared live lecture session" width="100%">
-</picture>
-
-**[Product Overview](https://compass-official.pages.dev/INTRO_Interactive/)** · **[Portfolio for Developers](https://compass-official.pages.dev/INTRO_Interactive/developers/)** · **[Source Code](https://github.com/genellect/compass-interactive)**
-
-<p>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
-  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"></a>
-  <a href="https://openai.com/api/"><img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI API"></a>
-  <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare"></a>
-</p>
-
-- Designed Student, Admin, Display, and Archive experiences around a shared lecture lifecycle
-- Implemented authentication, ownership, and authorization with Supabase Auth, PostgreSQL, Row Level Security, and RPC
-- Built versioned state synchronization with visibility-aware polling, retry control, and failure backoff
-- Separated browser-facing state, protected server operations, and private document delivery
-- Structured AI execution around authorization, concurrency limits, budget control, usage accounting, validation, and human review
-- Established validation across the frontend, database policies, serverless functions, browsers, and end-to-end lecture workflows
-
-> COMPASS Interactive is source-available through its public production repository.
+</div>
 
 <br>
 
-## COMPASS Platform
+### Engineering Focus
 
-**Founder · Product Owner · Full-Stack Developer**
-
-The public website and registration platform for COMPASS, a student-led education and technology initiative.
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/compass-platform-system-mobile.svg">
-  <img src="./assets/compass-platform-system.svg" alt="Public web, API, PostgreSQL, outbox, worker, and Google Drive delivery flow" width="100%">
-</picture>
-
-**[Production](https://compass-official.pages.dev/)** · **[Source Code](https://github.com/genellect/compass)**
-
-<p>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.2.11-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=555555" alt="Next.js 16.2.11"></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19-087EA4?style=flat-square&logo=react&logoColor=FFFFFF&labelColor=555555" alt="React 19"></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-Python_3.12+-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF&labelColor=555555" alt="FastAPI on Python 3.12 or later"></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-17-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF&labelColor=555555" alt="PostgreSQL 17"></a>
-  <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-Pages_%2B_Functions-F38020?style=flat-square&logo=cloudflare&logoColor=FFFFFF&labelColor=555555" alt="Cloudflare Pages and Functions"></a>
-  <a href="https://cloud.google.com/run"><img src="https://img.shields.io/badge/Google_Cloud-Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=FFFFFF&labelColor=555555" alt="Google Cloud Run"></a>
-</p>
-
-- Built the public website and registration interface with Next.js and Cloudflare Pages
-- Implemented Google account authentication, server-side ID-token verification, eligibility evaluation, and registration APIs with FastAPI
-- Established PostgreSQL as the source of truth for users, applications, identities, permissions, operations, and audit history
-- Implemented asynchronous Google Drive permission management with transactional outbox processing, idempotency, leases, retries, and recovery states
-- Separated Public API, Admin API, Worker, Migration, and Database responsibilities, with administrative workflows for access management, migration, auditing, and verified exports
-- Defined Cloud Run infrastructure, IAM, secrets, monitoring, and deployment with Terraform
-- Established automated validation across the web application, APIs, database, migrations, infrastructure, security, and external integrations
+- Scientific software and AI-native research systems
+- Full-stack web and cloud engineering
+- Data platforms and computational workflows
+- Educational technology and interactive systems
+- AI agents and agentic systems
 
 <br>
 
-## Research Background
+### Technical Expertise
 
-I am also a molecular biology researcher studying the molecular mechanisms of ALS/FTD, with a focus on C9orf72-associated neurodegeneration.
+<p>
+  <strong>Languages</strong><br>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python"></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=FFFFFF" alt="C#"></a>
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="SQL">
+</p>
 
-I apply software engineering, automation, image analysis, and AI to research and education workflows.
+<p>
+  <strong>Application Development</strong><br>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=FFFFFF" alt=".NET"></a>
+</p>
+
+<p>
+  <strong>Data &amp; Backend</strong><br>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" alt="Supabase"></a>
+  <a href="https://neon.com/"><img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=111827" alt="Neon"></a>
+  <img src="https://img.shields.io/badge/REST_APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=FFFFFF" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Realtime-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="Realtime">
+  <img src="https://img.shields.io/badge/Auth-EB5424?style=flat-square&logo=auth0&logoColor=FFFFFF" alt="Auth">
+</p>
+
+<p>
+  <strong>Cloud &amp; Infrastructure</strong><br>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=FFFFFF" alt="Google Cloud"></a>
+  <a href="https://developers.cloudflare.com/workers/"><img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=FFFFFF" alt="Cloudflare Workers"></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker"></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux"></a>
+</p>
+
+<p>
+  <strong>Engineering &amp; Operations</strong><br>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions"></a>
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="CI/CD">
+  <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=FFFFFF" alt="Playwright"></a>
+  <img src="https://img.shields.io/badge/E2E_Testing-475569?style=flat-square" alt="E2E Testing">
+  <img src="https://img.shields.io/badge/Integration_Testing-475569?style=flat-square" alt="Integration Testing">
+</p>
+
+<p>
+  <strong>AI &amp; Agentic Systems</strong><br>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex"></a>
+  <a href="https://docs.anthropic.com/en/docs/claude-code/overview"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=FFFFFF" alt="Claude Code"></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5E5CE6?style=flat-square&logo=modelcontextprotocol&logoColor=FFFFFF" alt="MCP"></a>
+  <img src="https://img.shields.io/badge/LLM_APIs-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="LLM APIs">
+  <img src="https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=flat-square" alt="Agentic Workflows">
+</p>
