@@ -14,13 +14,9 @@
   </a>
 </div>
 
-<div align="center">
+## Advancing science. Transforming education.
 
-<h2>Advancing science. Transforming education.</h2>
-
-<p>I work at the interface of <strong>life science, software, and AI</strong>, building systems that accelerate discovery, improve how knowledge is shared, and make complex work more intelligent and scalable.</p>
-
-</div>
+I work at the interface of **life science, software, and AI**, building systems that accelerate discovery, improve how knowledge is shared, and make complex work more intelligent and scalable.
 
 <br>
 
