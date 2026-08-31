@@ -87,3 +87,11 @@
   <img src="https://img.shields.io/badge/LLM_APIs-475569?style=flat-square" alt="LLM APIs">
   <img src="https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=flat-square" alt="Agentic Workflows">
 </p>
+
+<br>
+
+## Research Background
+
+I am also a molecular biology researcher studying the molecular mechanisms of ALS/FTD, with a focus on C9orf72-associated neurodegeneration.
+
+I apply software engineering, automation, image analysis, and AI to research and education workflows.
