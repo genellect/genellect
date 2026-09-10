@@ -41,46 +41,43 @@ I work at the interface of **life science, software, and AI**, building systems 
 </p>
 
 <p>
-  <strong>Application Development</strong><br>
+  <strong>Web &amp; Applications</strong><br>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=FFFFFF" alt=".NET"></a>
 </p>
 
 <p>
+  <strong>3D &amp; Motion</strong><br>
+  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js"></a>
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=FFFFFF" alt="Blender"></a>
+  <a href="https://www.remotion.dev/"><img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=FFFFFF" alt="Remotion"></a>
+</p>
+
+<p>
   <strong>Data &amp; Backend</strong><br>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL"></a>
   <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" alt="Supabase"></a>
-  <a href="https://neon.com/"><img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=111827" alt="Neon"></a>
-  <img src="https://img.shields.io/badge/REST_APIs-475569?style=flat-square" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Realtime-475569?style=flat-square" alt="Realtime">
-  <img src="https://img.shields.io/badge/Auth-475569?style=flat-square" alt="Auth">
 </p>
 
 <p>
   <strong>Cloud &amp; Infrastructure</strong><br>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=FFFFFF" alt="Google Cloud"></a>
-  <a href="https://developers.cloudflare.com/workers/"><img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=FFFFFF" alt="Cloudflare Workers"></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel"></a>
+  <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=FFFFFF" alt="Cloudflare"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF" alt="Docker"></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux"></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=FFFFFF" alt="Terraform"></a>
 </p>
 
 <p>
-  <strong>Engineering &amp; Operations</strong><br>
+  <strong>Quality &amp; Delivery</strong><br>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions"></a>
-  <img src="https://img.shields.io/badge/CI%2FCD-475569?style=flat-square" alt="CI/CD">
   <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=FFFFFF" alt="Playwright"></a>
-  <img src="https://img.shields.io/badge/E2E_Testing-475569?style=flat-square" alt="E2E Testing">
-  <img src="https://img.shields.io/badge/Integration_Testing-475569?style=flat-square" alt="Integration Testing">
 </p>
 
 <p>
-  <strong>AI &amp; Agentic Systems</strong><br>
-  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex"></a>
-  <a href="https://docs.anthropic.com/en/docs/claude-code/overview"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=FFFFFF" alt="Claude Code"></a>
+  <strong>AI &amp; Agents</strong><br>
+  <a href="https://openai.com/api/"><img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI API"></a>
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5E5CE6?style=flat-square&logo=modelcontextprotocol&logoColor=FFFFFF" alt="MCP"></a>
-  <img src="https://img.shields.io/badge/LLM_APIs-475569?style=flat-square" alt="LLM APIs">
   <img src="https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=flat-square" alt="Agentic Workflows">
 </p>
 
