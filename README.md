@@ -20,16 +20,6 @@ I work at the interface of **life science, software, and AI**, building systems 
 
 <br>
 
-### Engineering Focus
-
-- Scientific software and AI-native research systems
-- Full-stack web and cloud engineering
-- Data platforms and computational workflows
-- Educational technology and interactive systems
-- AI agents and agentic systems
-
-<br>
-
 ### Technical Expertise
 
 <p>
