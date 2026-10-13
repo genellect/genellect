@@ -67,7 +67,7 @@ I work at the interface of **life science, software, and AI**, building systems 
 </p>
 
 <p>
-  <strong>AI &amp; Agents</strong><br>
+  <strong>AI &amp; Machine Learning</strong><br>
   <a href="https://pytorch.org/"><img src="./assets/stack/pytorch.svg" alt="PyTorch" width="92" height="80"></a>
   <a href="https://www.tensorflow.org/"><img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="92" height="80"></a>
   <a href="https://openai.com/api/"><img src="./assets/stack/openai.svg" alt="OpenAI API" width="92" height="80"></a>
