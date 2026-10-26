@@ -15,6 +15,7 @@ All names and marks belong to their respective owners. Display here identifies t
 | `python.svg` | [Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg) | `baec8662a1461c2cacc326b54d2727cb2f1ce07ba02d00f5b826d035104f649f` |
 | `csharp.svg` | [C#](https://raw.githubusercontent.com/dotnet/brand/main/logo/language-icons/csharp-72.svg) | `9316224a173d1723fe0c4d1cedb6aaca685e067b1a9e9b5b233dbd5fdbb77208` |
 | `google-cloud.svg` | [Google Cloud](https://www.gstatic.com/cgc/super_cloud_gradient.png) | `a332b54b620a2fa04413561c01c925cd40f936581c7bed52df424ecccc9c08b4` |
+| `aws.svg` | [AWS official website, navigation SVG](https://aws.amazon.com/) | `1fc81fe0d4114ed94def22c51fbe2e1da4ba3937f1c7cf68493081cdae3838ce` |
 | `cloudflare.svg` | [Cloudflare](https://www.cloudflare.com/favicon.ico) | `5414bc6e4b3f6e10f99b5d37abf4420da4dcaece66f8f2c08e090e87267adbc5` |
 | `docker.svg` | [Docker](https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-180x180.png) | `5cb5caeeef34a0979a0b21640ea6bbbfb8345a9fff0d0e910c345ce4d0b65718` |
 | `terraform.svg` | [Terraform](https://raw.githubusercontent.com/hashicorp/design-system/main/packages/flight-icons/svg/terraform-color-24.svg) | `e2137e44c44942f52252a396cf42fcdd3fe1799fa65fb3ae8ccf73742a088dc5` |
@@ -22,6 +23,7 @@ All names and marks belong to their respective owners. Display here identifies t
 | `playwright.svg` | [Playwright](https://playwright.dev/img/playwright-logo.ico) | `d81c748cc8bd064ea31772063fa2a8373df0a6f621495428755be015f6c239cf` |
 | `pytorch.svg` | [PyTorch](https://pytorch.org/wp-content/uploads/2024/10/cropped-favicon-180x180.webp) | `b126ab63270f2f63e13a847bc93fa720bf7a08849adfdd243a3762a131b0e2e8` |
 | `tensorflow.svg` | [TensorFlow](https://www.gstatic.com/devrel-devsite/prod/v097103d8ccd7b257790809ea4cc5e5fee6daa6e24890a4af388296e58364bc31/tensorflow/images/apple-touch-icon-180x180.png) | `adbaa44d875c209b63be5781b03df3dee155206b1ad47d21d7aec76f7f5eb1ca` |
+| `hugging-face.svg` | [Hugging Face brand assets](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg) | `942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0` |
 | `openai.svg` | [OpenAI API](https://avatars.githubusercontent.com/u/14957082?v=4) | `6025a4347a8eaed17e31eaebf7834e33ec4af26cc7f59be586ac59ba5157fa1c` |
 | `mcp.svg` | [MCP](https://modelcontextprotocol.io/mintlify-assets/_mintlify/favicons/mcp/ebiVJzri-bsiCfVZ/_generated/favicon/apple-touch-icon.png) | `bf7a5a8d52fe292c6964ea4361018ecb346a065d8a374d0e1ea6fe56170fb566` |
 | `threejs.svg` | [Three.js](https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg) | `fe160e715ebdbed862f4a3f3633320cd5081b8de4e95818d429b3d295a71a9e8` |

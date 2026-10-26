@@ -45,6 +45,7 @@ I work at the interface of **life science, software, and AI**, building systems 
 <p>
   <strong>Cloud &amp; Infrastructure</strong><br>
   <a href="https://cloud.google.com/"><img src="./assets/stack/google-cloud.svg" alt="Google Cloud" width="92" height="80"></a>
+  <a href="https://aws.amazon.com/"><img src="./assets/stack/aws.svg" alt="AWS" width="92" height="80"></a>
   <a href="https://www.cloudflare.com/"><img src="./assets/stack/cloudflare.svg" alt="Cloudflare" width="92" height="80"></a>
   <a href="https://www.docker.com/"><img src="./assets/stack/docker.svg" alt="Docker" width="92" height="80"></a>
   <a href="https://developer.hashicorp.com/terraform"><img src="./assets/stack/terraform.svg" alt="Terraform" width="92" height="80"></a>
@@ -60,6 +61,7 @@ I work at the interface of **life science, software, and AI**, building systems 
   <strong>AI &amp; Machine Learning</strong><br>
   <a href="https://pytorch.org/"><img src="./assets/stack/pytorch.svg" alt="PyTorch" width="92" height="80"></a>
   <a href="https://www.tensorflow.org/"><img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="92" height="80"></a>
+  <a href="https://huggingface.co/"><img src="./assets/stack/hugging-face.svg" alt="Hugging Face" width="92" height="80"></a>
   <a href="https://openai.com/api/"><img src="./assets/stack/openai.svg" alt="OpenAI API" width="92" height="80"></a>
   <a href="https://modelcontextprotocol.io/"><img src="./assets/stack/mcp.svg" alt="MCP" width="92" height="80"></a>
 </p>
