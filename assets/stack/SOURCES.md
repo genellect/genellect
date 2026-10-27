@@ -6,7 +6,7 @@ All names and marks belong to their respective owners. Display here identifies t
 
 | Tile | Official source | Upstream asset SHA-256 |
 | --- | --- | --- |
-| `nextjs.svg` | [Next.js](https://nextjs.org/favicon.ico?favicon.38folom4sz_yx.ico) | `c28fdd2a4f31e2dc64f653962286da5c82a4cdfc518b242d32812c624e9a19a4` |
+| `nextjs.svg` | [Next.js official symbol](https://vercel.com/geist/brands/assets/nextjs-symbol-black.svg) | `fad7aefc80d5e5df4fe390d09f8e7d985fcc1ae1d3c9be1fd2ff603c8d18b769` |
 | `fastapi.svg` | [FastAPI](https://fastapi.tiangolo.com/img/favicon.png) | `d16f72cf5a2773eba499cc7f3db1923c6f5f73de990f739e3a05806aafec15b7` |
 | `dotnet.svg` | [.NET](https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg) | `f222062c4f59b7864163bd54d24fafc40f1e2f2513672e50bc08e5025d73e4e5` |
 | `postgresql.svg` | [PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png) | `ff92fb5d12a7fa6b23c2eb403d2edf4fbc58ced802021e1f02c3583cb70957be` |
@@ -29,7 +29,21 @@ All names and marks belong to their respective owners. Display here identifies t
 | `threejs.svg` | [Three.js](https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg) | `fe160e715ebdbed862f4a3f3633320cd5081b8de4e95818d429b3d295a71a9e8` |
 | `blender.svg` | [Blender](https://www.blender.org/wp-content/themes/bthree/assets/icons/favicon.svg) | `3b4106f45b8998f5115355073e22624b81232a46b1cf7de5de37b21b668cede2` |
 | `remotion.svg` | [Remotion](https://www.remotion.dev/img/favicon.png) | `662a084d72d99ab91b47c7a566dd0631f0ce0e4f0bf6032708c9200b0db09fd9` |
+| `nginx.svg` | [nginx](https://nginx.org/favicon.ico) | `47aaa89c6703eb0dff563584ba86264bfa52c95129aba509d60c44bd200b8d85` |
+| `modal.svg` | [Modal](https://modal.com/) | `eacfb53ddf1d7f7e871a2e23d8eadba6a4872622b1bfec23d6ec41c322e66549` |
+| `anthropic.svg` | [Anthropic API](https://www.anthropic.com/images/icons/apple-touch-icon.png) | `40e3900fcb3ad237af6869dbd40e77efc8eb23549c478125b40e563ac74423cb` |
+| `fiji.svg` | [Fiji](https://fiji.sc/site/logo.png) | `93161bc041d929a74427abd2554ef208439733d260d7de8ee0f13bb9ef34ea90` |
+| `cellpose.svg` | [Cellpose](https://www.cellpose.org/static/images/logo.png) | `11fd5caf7ce1f3c0f9f4b283ac5f34981e604e8b68a7ede70457dbe8611aa328` |
+| `stardist.svg` | [StarDist](https://raw.githubusercontent.com/stardist/stardist/main/images/stardist_logo.jpg) | `faa4c1ae66f95ba3e34ed95dcafaffaebb9faab7b8e1229772a966b2fdc3aea4` |
 
 C# and .NET artwork: [official .NET brand repository](https://github.com/dotnet/brand).
 Python artwork: [Python logo policy and downloads](https://www.python.org/community/logos/).
 Terraform artwork: [HashiCorp design system](https://github.com/hashicorp/design-system).
+
+nginx artwork: the official site favicon, converted from its largest (48 x 48) ICO frame to PNG without resizing or recoloring.
+Modal artwork: the SVG embedded in the official homepage's "Download logo as .svg" link; the recorded SHA-256 identifies the decoded SVG bytes.
+Cellpose artwork: linked as the logo by the [official Cellpose README](https://github.com/MouseLand/cellpose).
+StarDist artwork: linked as the logo by the [official StarDist README](https://github.com/stardist/stardist).
+
+Next.js artwork: [official Vercel brand assets](https://vercel.com/geist/brands), embedded as vector paths instead of the previous 48 x 48 PNG.
+Vercel, the Vercel design, Next.js and related marks, designs and logos are trademarks or registered trademarks of Vercel, Inc. or its affiliates in the US and other countries.

@@ -43,11 +43,31 @@ I work at the interface of **life science, software, and AI**, building systems 
 </p>
 
 <p>
-  <strong>Cloud &amp; Infrastructure</strong><br>
+  <strong>Machine Learning</strong><br>
+  <a href="https://pytorch.org/"><img src="./assets/stack/pytorch.svg" alt="PyTorch" width="92" height="80"></a>
+  <a href="https://www.tensorflow.org/"><img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="92" height="80"></a>
+  <a href="https://huggingface.co/"><img src="./assets/stack/hugging-face.svg" alt="Hugging Face" width="92" height="80"></a>
+</p>
+
+<p>
+  <strong>AI Integration</strong><br>
+  <a href="https://openai.com/api/"><img src="./assets/stack/openai.svg" alt="OpenAI API" width="92" height="80"></a>
+  <a href="https://www.anthropic.com/"><img src="./assets/stack/anthropic.svg" alt="Anthropic API" width="92" height="80"></a>
+  <a href="https://modelcontextprotocol.io/"><img src="./assets/stack/mcp.svg" alt="MCP" width="92" height="80"></a>
+</p>
+
+<p>
+  <strong>Cloud Platforms</strong><br>
   <a href="https://cloud.google.com/"><img src="./assets/stack/google-cloud.svg" alt="Google Cloud" width="92" height="80"></a>
   <a href="https://aws.amazon.com/"><img src="./assets/stack/aws.svg" alt="AWS" width="92" height="80"></a>
   <a href="https://www.cloudflare.com/"><img src="./assets/stack/cloudflare.svg" alt="Cloudflare" width="92" height="80"></a>
+  <a href="https://modal.com/"><img src="./assets/stack/modal.svg" alt="Modal" width="92" height="80"></a>
+</p>
+
+<p>
+  <strong>Infrastructure</strong><br>
   <a href="https://www.docker.com/"><img src="./assets/stack/docker.svg" alt="Docker" width="92" height="80"></a>
+  <a href="https://nginx.org/"><img src="./assets/stack/nginx.svg" alt="nginx" width="92" height="80"></a>
   <a href="https://developer.hashicorp.com/terraform"><img src="./assets/stack/terraform.svg" alt="Terraform" width="92" height="80"></a>
 </p>
 
@@ -55,15 +75,6 @@ I work at the interface of **life science, software, and AI**, building systems 
   <strong>Quality &amp; Delivery</strong><br>
   <a href="https://github.com/features/actions"><img src="./assets/stack/github-actions.svg" alt="GitHub Actions" width="92" height="80"></a>
   <a href="https://playwright.dev/"><img src="./assets/stack/playwright.svg" alt="Playwright" width="92" height="80"></a>
-</p>
-
-<p>
-  <strong>AI &amp; Machine Learning</strong><br>
-  <a href="https://pytorch.org/"><img src="./assets/stack/pytorch.svg" alt="PyTorch" width="92" height="80"></a>
-  <a href="https://www.tensorflow.org/"><img src="./assets/stack/tensorflow.svg" alt="TensorFlow" width="92" height="80"></a>
-  <a href="https://huggingface.co/"><img src="./assets/stack/hugging-face.svg" alt="Hugging Face" width="92" height="80"></a>
-  <a href="https://openai.com/api/"><img src="./assets/stack/openai.svg" alt="OpenAI API" width="92" height="80"></a>
-  <a href="https://modelcontextprotocol.io/"><img src="./assets/stack/mcp.svg" alt="MCP" width="92" height="80"></a>
 </p>
 
 <p>
@@ -80,3 +91,10 @@ I work at the interface of **life science, software, and AI**, building systems 
 I am also a molecular biology researcher studying the molecular mechanisms of ALS/FTD, with a focus on C9orf72-associated neurodegeneration.
 
 I apply software engineering, automation, image analysis, and AI to research and education workflows.
+
+<p>
+  <strong>Bioimage Analysis</strong><br>
+  <a href="https://fiji.sc/"><img src="./assets/stack/fiji.svg" alt="Fiji" width="92" height="80"></a>
+  <a href="https://www.cellpose.org/"><img src="./assets/stack/cellpose.svg" alt="Cellpose" width="92" height="80"></a>
+  <a href="https://github.com/stardist/stardist"><img src="./assets/stack/stardist.svg" alt="StarDist" width="92" height="80"></a>
+</p>
