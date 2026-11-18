@@ -1,18 +1,9 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/yuto-matsui-masthead-mobile.svg">
-  <img src="./assets/yuto-matsui-masthead.svg" alt="Yuto Matsui. AI-native full-stack developer building production systems across education, AI, and science. I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations." width="100%">
-</picture>
+<img src="./assets/masthead.png" alt="Yuto Matsui. AI-native full-stack developer building production systems across education, AI, and science. I turn domain problems into working products—from problem definition and system architecture to implementation, testing, deployment, and operations." width="100%">
 
-<div>&nbsp;</div>
-
-<div align="center">
-  <a href="https://yuto-matsui.com/">
-    <picture>
-      <source media="(max-width: 600px)" srcset="./assets/web-portfolio-wide-mobile.svg">
-      <img src="./assets/web-portfolio-wide.svg" alt="Explore My Web Portfolio →" width="100%">
-    </picture>
-  </a>
-</div>
+<p>
+  <a href="https://yuto-matsui.com/"><img src="./assets/portfolio-ja.png" alt="Webポートフォリオを見る" width="49%"></a>
+  <a href="https://yuto-matsui.com/en/"><img src="./assets/portfolio-en.png" alt="Explore My Web Portfolio" width="49%"></a>
+</p>
 
 ## Advancing science. Transforming education.
 
